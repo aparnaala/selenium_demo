@@ -7,7 +7,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import java.util.Set;
 import java.time.Duration;
 
-public class window1 {
+public class HandlingBrowsersWindows {
 
   public static void main(String[] args) throws InterruptedException {
 

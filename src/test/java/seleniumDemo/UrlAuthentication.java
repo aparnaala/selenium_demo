@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class Urlauthentication {
+public class UrlAuthentication {
   public static void main(String[] args) {
     // Setup ChromeDriver
     WebDriverManager.chromedriver().setup();

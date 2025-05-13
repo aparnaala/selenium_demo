@@ -9,7 +9,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import java.time.Duration;
 
-public class Actionclass {
+public class HandlingMouseActions {
   public static void main(String[] args){
     WebDriverManager.chromedriver().setup();
     WebDriver driver = new ChromeDriver();

@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 
 import java.time.Duration;
 
-public class Frames {
+public class HandlingFrames {
   public static void main ( String[] args){
 
     WebDriverManager.chromedriver().setup();
